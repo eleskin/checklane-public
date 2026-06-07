@@ -1,35 +1,48 @@
 # Checklane
 
-Catch third-party API failures before they become support tickets.
+Know when integrations fail before your customers do.
 
-Checklane helps small SaaS teams monitor external APIs, integrations and critical dependencies such as OpenAI, Stripe, GitHub, Slack, Telegram and internal services.
+Checklane helps SaaS teams monitor third-party APIs, integrations and critical dependencies before failures become support tickets.
 
-## What it monitors
+## What Checklane monitors
 
-- API availability
-- HTTP errors
-- timeouts
-- response time degradation
-- integration failures
+* API endpoints
+* HTTP errors
+* Timeouts
+* Response time degradation
+* Third-party integrations
+* Internal services
 
-## Who it is for
+## Common use cases
 
-- indie hackers
-- solo founders
-- small SaaS teams
-- technical founders
+Monitor dependencies such as:
 
-## Links
+* OpenAI
+* Stripe
+* GitHub
+* Slack
+* Telegram
+* Notion
+* Internal APIs
 
-- Website: https://...
-- App: https://...
-- Feedback: GitHub Issues
-- Roadmap: GitHub Issues / Projects
+## Why Checklane
+
+Traditional uptime monitoring tells you when your application is down.
+
+Checklane helps you discover when the services your product depends on start failing.
+
+## Website
+
+https://checklane.app
+
+## Feedback
+
+Use GitHub Issues or Discussions to suggest features, report problems or share feedback.
 
 ## Roadmap
 
-- Better incident history
-- Public status pages
-- Webhook checks
-- Slack alerts
-- Self-hosted version — under consideration
+See ROADMAP.md
+
+## Changelog
+
+See CHANGELOG.md
