@@ -33,7 +33,7 @@ Checklane helps you discover when the services your product depends on start fai
 
 ## Website
 
-https://checklane.app
+http://checklane.olisen.studio/
 
 ## Feedback
 
