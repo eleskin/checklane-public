@@ -1,5 +1,9 @@
 # Checklane
 
+![Status](https://img.shields.io/badge/status-active-success)
+![Stage](https://img.shields.io/badge/stage-MVP-blue)
+![Feedback](https://img.shields.io/badge/feedback-welcome-orange)
+
 Know when integrations fail before your customers do.
 
 Checklane helps SaaS teams monitor third-party APIs, integrations and critical dependencies before failures become support tickets.
